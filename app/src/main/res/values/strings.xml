@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Omer Is Testing!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="Content1">Content1</string>
+</resources>
